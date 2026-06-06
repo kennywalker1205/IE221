@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dcde811-5dcb-4385-9ecb-d784fe9357f6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="96" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38xxvMKiJF7XwCcxLq8yqZnkujl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.IE221.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.23520805_Phan Trung Kiên_Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23520805_Phan Trung Kiên_Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23520805_Phan Trung Kiên_Bài tập Kéo Búa Bao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23520805_Phan Trung Kiên_QLNV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai2_MVC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.De1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.De1_MVC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.De2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.De2_MVC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QLNV_Luong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QLNV_MVC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo_object_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draft.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m01_class_object.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m02_class_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m03_class_encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m03_get_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m04_class_polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m05_class_abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.m05_class_abstraction_100per.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kenny/OneDrive/Máy tính/IE221/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kenny\OneDrive\Máy tính\IE221\Lí thuyết\Note\Week_6_p03_polymorphism_n_abstraction" />
+      <recent name="C:\Users\kenny\OneDrive\Máy tính\IE221\Lí thuyết\Note" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kenny\OneDrive\Máy tính\IE221\Lí thuyết\Note\Week_4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.De1_MVC">
+    <configuration name="Bai2_MVC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IE221" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thực hành/Lab 3/23520805_Phan Trung Kiên_Bai2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thực hành/Lab 3/23520805_Phan Trung Kiên_Bai2/Bai2_MVC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="De1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IE221" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_1/De1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="De1_MVC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IE221" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_1/De1_MVC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="De2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IE221" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_2/De2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="De2_MVC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IE221" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_2/De2_MVC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IE221" type="Python.DjangoServer" factoryName="Django server">
+      <module name="IE221" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.De1_MVC" />
+        <item itemvalue="Python.De1" />
+        <item itemvalue="Python.De2_MVC" />
+        <item itemvalue="Python.De2" />
+        <item itemvalue="Python.Bai2_MVC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dcde811-5dcb-4385-9ecb-d784fe9357f6" name="Changes" comment="" />
+      <created>1769755256340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769755256340</updated>
+      <workItem from="1769755260065" duration="301000" />
+      <workItem from="1769756292282" duration="2816000" />
+      <workItem from="1769759169824" duration="3352000" />
+      <workItem from="1769784537820" duration="1540000" />
+      <workItem from="1770083880622" duration="1520000" />
+      <workItem from="1770115648331" duration="8794000" />
+      <workItem from="1770254993459" duration="19702000" />
+      <workItem from="1770296274127" duration="48000" />
+      <workItem from="1772171609398" duration="10607000" />
+      <workItem from="1772757346542" duration="12233000" />
+      <workItem from="1772811967606" duration="1669000" />
+      <workItem from="1773105541900" duration="9786000" />
+      <workItem from="1773381975059" duration="8372000" />
+      <workItem from="1773967035094" duration="17995000" />
+      <workItem from="1774592225812" duration="8069000" />
+      <workItem from="1774787399104" duration="2405000" />
+      <workItem from="1774798895443" duration="2568000" />
+      <workItem from="1774834824841" duration="11452000" />
+      <workItem from="1775177519600" duration="17605000" />
+      <workItem from="1776324103278" duration="5461000" />
+      <workItem from="1776385936128" duration="8522000" />
+      <workItem from="1777446734300" duration="7492000" />
+      <workItem from="1778166925188" duration="9546000" />
+      <workItem from="1780397038978" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m01_class_object.coverage" NAME="m01_class_object Coverage Results" MODIFIED="1773389865556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_4" />
+    <SUITE FILE_PATH="coverage/IE221$draft.coverage" NAME="draft Coverage Results" MODIFIED="1770084564919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Bài tập quá trình" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$demo_object_str.coverage" NAME="demo_object_str Coverage Results" MODIFIED="1774594760597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$De2_MVC.coverage" NAME="De2_MVC Coverage Results" MODIFIED="1777459906809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$Bai2.coverage" NAME="Bai2 Coverage Results" MODIFIED="1775186861270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Lab 3/23520805_Phan Trung Kiên_Bai2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$De1_MVC.coverage" NAME="De1_MVC Coverage Results" MODIFIED="1778194511135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_1" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$23520805_Phan_Trung_Kiên_Bài_tp_Kéo_Búa_Bao.coverage" NAME="23520805_Phan Trung Kiên_Bài tập Kéo Búa Bao Coverage Results" MODIFIED="1772182153000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Bài tập quá trình" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$23520805_Phan_Trung_Kiên_QLNV.coverage" NAME="23520805_Phan Trung Kiên_QLNV Coverage Results" MODIFIED="1773976985426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Lab 2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$QLNV_MVC.coverage" NAME="QLNV_MVC Coverage Results" MODIFIED="1774600648978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction/Bai10_MVC" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m05_class_abstraction.coverage" NAME="m05_class_abstraction Coverage Results" MODIFIED="1774595829727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m05_class_abstraction_100per.coverage" NAME="m05_class_abstraction_100per Coverage Results" MODIFIED="1774596218231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$23520805_Phan_Trung_Kiên_Bai1.coverage" NAME="23520805_Phan Trung Kiên_Bai1 Coverage Results" MODIFIED="1774846298503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Lab 2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$De1.coverage" NAME="De1 Coverage Results" MODIFIED="1778194042644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_1" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$De2.coverage" NAME="De2 Coverage Results" MODIFIED="1778192287263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Đề_ôn_thi/Đề_2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$23520805_Phan_Trung_Kiên_Bai2.coverage" NAME="23520805_Phan Trung Kiên_Bai2 Coverage Results" MODIFIED="1774844770415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Lab 2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m02_class_inheritance.coverage" NAME="m02_class_inheritance Coverage Results" MODIFIED="1773990381904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_5_p02_class_inheritance" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m03_class_encapsulation.coverage" NAME="m03_class_encapsulation Coverage Results" MODIFIED="1773994000703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_5_p02_class_inheritance_n_encapsulation" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m03_get_set.coverage" NAME="m03_get_set Coverage Results" MODIFIED="1773996077058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_5_p02_class_inheritance_n_encapsulation" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$Bai2_MVC.coverage" NAME="Bai2_MVC Coverage Results" MODIFIED="1776396643625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thực hành/Lab 3/23520805_Phan Trung Kiên_Bai2" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$QLNV_Luong.coverage" NAME="QLNV_Luong Coverage Results" MODIFIED="1774599296927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction/Bai10_MVC" />
+    <SUITE FILE_PATH="coverage/23520805_Phan_Trung_Kiên_Data_type_operator_ipynb$m04_class_polymorphism.coverage" NAME="m04_class_polymorphism Coverage Results" MODIFIED="1774594321761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lí thuyết/Note/Week_6_p03_polymorphism_n_abstraction" />
+  </component>
+</project>
